@@ -1,6 +1,3 @@
-# 🚀 AI Engineer Switch Tracker
-
-A 14-week interactive progress tracker for mid-level AI engineers switching to Big Tech, startups, or mid-size companies.
 
 ## Features
 - Daily task checklist across 14 weeks
